@@ -1,0 +1,6 @@
+transformers==4.55.4
+accelerate==1.9.0
+bitsandbytes==0.46.1
+gradio
+pillow==11.3.0
+torch
